@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Session token (contains sensitive auth token — do not commit)
+.session_token
+
+# Stock data CSVs (large files — store separately)
+data/
+
+# Login debug screenshots
+screenshots/
+
+# IDE
+.vscode/
+.idea/
