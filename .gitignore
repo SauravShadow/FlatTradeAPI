@@ -7,10 +7,7 @@ __pycache__/
 # Session token (contains sensitive auth token — do not commit)
 .session_token
 
-# Stock data CSVs (large files — store separately)
-data/
-
-# Login debug screenshots
+# Login debug screenshots (large debug images)
 screenshots/
 
 # IDE
